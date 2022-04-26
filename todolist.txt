@@ -2,3 +2,7 @@
 -listen to lection about git
 -to eat
 -study english
+
+27.04.2022
+-go to work 
+-sleep
